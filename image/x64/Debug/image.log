@@ -1,0 +1,5 @@
+﻿  Skipping vcpkg. (no packages)
+  image.cpp
+C:\Users\Artyom\source\repos\image\image\image.cpp(58,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Artyom\source\repos\image\image\image.cpp(63,20): warning C4018: <: несоответствие типов со знаком и без знака
+  image.vcxproj -> C:\Users\Artyom\source\repos\image\x64\Debug\image.exe
